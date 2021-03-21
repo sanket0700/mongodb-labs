@@ -8,7 +8,7 @@ MongoDB is the fifth most popular database engine at the time of writing accordi
 
 MongoDB provides a simple model based on documents that is easy for developers to learn and use.  It does so while continuing to meet the most complex requirements at scale.  Mongo officially supports drivers in over 10 languages, and has a flourishing community that has built dozens more.
 
-Becuase of that, we've put together a series of documents designed to get you primed to use MongoDB using the Mongo Query Language as well as Python.
+Because of that, we've put together a series of documents designed to get you primed to use MongoDB using the Mongo Query Language as well as Python.
 
 
 ## Let's Get Started
